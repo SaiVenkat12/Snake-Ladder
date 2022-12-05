@@ -7,7 +7,7 @@ namespace SnakeandLadder
         {
             int start = 0;
             Console.WriteLine("Snake and Ladder Game");
-            Console.WriteLine("The position of player 1 is " + start);
+            Console.WriteLine("Player 1 position is " + start);
 
 
         }
