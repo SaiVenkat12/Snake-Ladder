@@ -22,6 +22,10 @@ namespace SnakeandLadder
                 {
                     case 0:
                         place += position;
+                        if(place >=100)
+                        {
+                            place= 100;
+                        }
                         
                         break;
                     case 1:
