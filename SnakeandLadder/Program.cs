@@ -11,6 +11,7 @@ namespace SnakeandLadder
         static void Main(string[] args)
         {
             int place = 0;
+            int count = 0;
             Console.WriteLine("Snake and Ladder Game");
             var random = new Random();
             int position = random.Next(1, 7);
@@ -22,23 +23,30 @@ namespace SnakeandLadder
                 {
                     case 0:
                         place += position;
-                        
+                        if (place >= 100)
+                        {
+                            place = 100;
+                        }
                         break;
                     case 1:
                         place -= die;
                         if (place < 0)
                         {
-                            
+
                             place = 0;
                         }
                         break;
                     default:
-                        place= place;
+                        place = place;
+
                         break;
 
                 }
+                count++;
             }
             Console.WriteLine("The position of player1 is " + place);
+            Console.WriteLine("The number of times dice rolled for player1 to reach 100 is " + count);
+
         }
     }
 }
