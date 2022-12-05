@@ -1,0 +1,15 @@
+C:\Users\venky\source\Snake\SnakeandLadder\bin\Debug\net6.0\SnakeandLadder.exe
+C:\Users\venky\source\Snake\SnakeandLadder\bin\Debug\net6.0\SnakeandLadder.deps.json
+C:\Users\venky\source\Snake\SnakeandLadder\bin\Debug\net6.0\SnakeandLadder.runtimeconfig.json
+C:\Users\venky\source\Snake\SnakeandLadder\bin\Debug\net6.0\SnakeandLadder.dll
+C:\Users\venky\source\Snake\SnakeandLadder\bin\Debug\net6.0\SnakeandLadder.pdb
+C:\Users\venky\source\Snake\SnakeandLadder\obj\Debug\net6.0\SnakeandLadder.csproj.AssemblyReference.cache
+C:\Users\venky\source\Snake\SnakeandLadder\obj\Debug\net6.0\SnakeandLadder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venky\source\Snake\SnakeandLadder\obj\Debug\net6.0\SnakeandLadder.AssemblyInfoInputs.cache
+C:\Users\venky\source\Snake\SnakeandLadder\obj\Debug\net6.0\SnakeandLadder.AssemblyInfo.cs
+C:\Users\venky\source\Snake\SnakeandLadder\obj\Debug\net6.0\SnakeandLadder.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\Snake\SnakeandLadder\obj\Debug\net6.0\SnakeandLadder.dll
+C:\Users\venky\source\Snake\SnakeandLadder\obj\Debug\net6.0\refint\SnakeandLadder.dll
+C:\Users\venky\source\Snake\SnakeandLadder\obj\Debug\net6.0\SnakeandLadder.pdb
+C:\Users\venky\source\Snake\SnakeandLadder\obj\Debug\net6.0\SnakeandLadder.genruntimeconfig.cache
+C:\Users\venky\source\Snake\SnakeandLadder\obj\Debug\net6.0\ref\SnakeandLadder.dll
