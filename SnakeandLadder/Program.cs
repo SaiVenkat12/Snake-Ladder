@@ -31,13 +31,9 @@ namespace SnakeandLadder
                             
                             place = 0;
                         }
-                        else
-                        {
-                            
-                        }
                         break;
                     default:
-                        
+                        place= place;
                         break;
 
                 }
